@@ -1,0 +1,8 @@
+{
+  "name": "dark",
+  "win_bg": "#202225",
+  "label_color": "#FFFFFF",
+  "btn_bg": "#5865F2",
+  "btn_hover": "#4752C4",
+  "btn_pressed": "#3C45A5"
+}

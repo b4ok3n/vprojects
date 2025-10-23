@@ -1,0 +1,8 @@
+{
+  "name": "light",
+  "win_bg": "#EDEDED",
+  "label_color": "#000000",
+  "btn_bg": "#2B6CB0",
+  "btn_hover": "#2C5282",
+  "btn_pressed": "#2A4365"
+}

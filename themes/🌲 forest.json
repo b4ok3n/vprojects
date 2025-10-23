@@ -1,0 +1,8 @@
+{
+  "name": "forest",
+  "win_bg": "#1C2E1E",
+  "label_color": "#DFFFD6",
+  "btn_bg": "#2E8B57",
+  "btn_hover": "#3CB371",
+  "btn_pressed": "#228B22"
+}

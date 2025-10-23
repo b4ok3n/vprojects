@@ -1,0 +1,8 @@
+{
+  "name": "glacier",
+  "win_bg": "#D6F0FF",
+  "label_color": "#003366",
+  "btn_bg": "#66B2FF",
+  "btn_hover": "#3399FF",
+  "btn_pressed": "#007ACC"
+}

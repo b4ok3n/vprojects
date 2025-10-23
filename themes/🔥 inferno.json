@@ -1,0 +1,8 @@
+{
+  "name": "inferno",
+  "win_bg": "#1E0000",
+  "label_color": "#FFD580",
+  "btn_bg": "#FF4500",
+  "btn_hover": "#FF6A00",
+  "btn_pressed": "#E63E00"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "cyber",
+  "win_bg": "#0D0F1E",
+  "label_color": "#00FFEA",
+  "btn_bg": "#FF00C8",
+  "btn_hover": "#D600A8",
+  "btn_pressed": "#A80085"
+}
