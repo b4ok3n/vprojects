@@ -110,3 +110,67 @@ ui.Window.get_widget() → keep a reference in App
 gg.transparent → gg.rgba(0,0,0,0)
 
 Remove old keyboard shortcut helpers
+
+✅ New Features Added:
+
+Arrow navigation through todos (Up/Down).
+
+Enter to edit the selected todo.
+
+Selected row always highlighted.
+
+Hover effects remain functional
+
+✅ New Features in This Version:
+
+Inline editing: Click "Edit" or press Enter to replace a todo row with a textbox directly.
+
+Keyboard-friendly: Arrow keys navigate, Enter edits, shortcuts disable while editing.
+
+Clean hover + selection colors remain intact.
+
+Works fully in V stable without hacks or deprecated functions.
+
+✅ Features Included:
+
+Full inline editing with focus and select-all.
+
+Escape key cancels editing.
+
+Hover highlight on rows.
+
+Edit/Delete buttons fully functional.
+
+Keyboard shortcuts (up/down to select, Enter to edit).
+
+Load/save JSON for todos.
+
+🔹 Features
+
+Inline editing with focus and select-all.
+
+Escape key cancels editing.
+
+Hover highlights for rows.
+
+Edit/Delete buttons functional.
+
+Keyboard navigation: arrow keys + Enter to edit.
+
+Add/Save buttons for todos.
+
+JSON-based persistence.
+
+✅ Features in this version
+
+Inline editing with Enter to save, Escape to cancel.
+
+Hover effect on each row.
+
+Add/Delete/Save buttons.
+
+Keyboard navigation (up/down + Enter).
+
+Theme buttons with live switching.
+
+Persistent JSON storage (todos.json).
