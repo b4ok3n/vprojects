@@ -174,3 +174,12 @@ Keyboard navigation (up/down + Enter).
 Theme buttons with live switching.
 
 Persistent JSON storage (todos.json).
+✅ New Features in this version
+
+Dynamic themes — fully editable inside the app.
+
+Live theme preview — colors update instantly.
+
+Inline editing + keyboard navigation intact.
+
+JSON storage for todos persists as before.
