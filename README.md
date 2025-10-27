@@ -99,3 +99,14 @@ Todo input supports adding new and editing existing items
 
 Everything compiles with current V (v0.4x stable)
 
+✅ TL;DR
+
+ui.input → ui.textbox
+
+ui.Stack.user_data / hover → hoverable + on_mouse_enter/on_mouse_leave
+
+ui.Window.get_widget() → keep a reference in App
+
+gg.transparent → gg.rgba(0,0,0,0)
+
+Remove old keyboard shortcut helpers
